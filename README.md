@@ -45,15 +45,25 @@ Aplikasi kuis interaktif berbasis Flutter yang menguji pengetahuan pengguna tent
 
 **Disclaimer**: Aplikasi ini dibuat untuk keperluan edukasi. Semua aset KMNZ adalah properti dari pemiliknya masing-masing.
 
-## 📸 Screenshot Aplikasi
+## Screenshot Aplikasi
 
 ### Welcome Screen
+<img width="493" height="884" alt="Screenshot 2025-11-03 200154" src="https://github.com/user-attachments/assets/89ce2df4-ddb4-48e4-bba3-01f1bdc092f9" />
 
 ### Trivia Screen
+<img width="455" height="882" alt="Screenshot 2025-11-03 200227" src="https://github.com/user-attachments/assets/9e36bc59-f834-4638-8656-e75e6f9e7c11" />
+<img width="469" height="881" alt="Screenshot 2025-11-03 200238" src="https://github.com/user-attachments/assets/d83f5fca-cc07-48d6-bb2b-a9133f9ed916" />
 
 ### Quiz Screen
+<img width="493" height="938" alt="Screenshot 2025-11-03 200248" src="https://github.com/user-attachments/assets/4675af62-d2af-4644-bd15-af2f0f7ce71e" />
+<img width="476" height="922" alt="Screenshot 2025-11-04 112302" src="https://github.com/user-attachments/assets/672fa322-e042-4c67-917f-b42830e3c193" />
+<img width="480" height="889" alt="Screenshot 2025-11-03 200257" src="https://github.com/user-attachments/assets/c468afc7-588a-4e0c-9d87-90e46caf671e" />
+<img width="482" height="887" alt="Screenshot 2025-11-03 191918" src="https://github.com/user-attachments/assets/c3022efc-795b-4328-ac66-4bdc92b90f79" />
+<img width="531" height="929" alt="Screenshot 2025-11-03 191923" src="https://github.com/user-attachments/assets/99a2b2de-3f24-49e2-a057-99ce9555401d" />
 
 ### Result Screen
+<img width="479" height="897" alt="Screenshot 2025-11-03 200505" src="https://github.com/user-attachments/assets/2c13129c-2f94-4bdb-be60-5d1b29f90068" />
+<img width="468" height="910" alt="Screenshot 2025-11-04 113654" src="https://github.com/user-attachments/assets/7718ccd2-a5b0-4438-8769-2f94c3fd47ea" />
 
 ## Video Demo
 
