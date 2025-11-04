@@ -68,4 +68,4 @@ Aplikasi kuis interaktif berbasis Flutter yang menguji pengetahuan pengguna tent
 ## Video Demo
 
 ## Mockup/Prototype
-
+[Link Figma](https://www.figma.com/design/I8woakXlF20oqFsXl6ZdT3/Prototype-KMNZ-Quiz-App?node-id=0-1&t=MxtnPNmCitVIyjdD-1)
